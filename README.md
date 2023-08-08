@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Framworks, Courses**
 
-- 💬 Ask me about **vue, Mearn**
+- 💬 Ask me about **React, Mearn**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abdelrady-mohamed/**
 
