@@ -12,11 +12,9 @@
 
 
 
-- 💬 Ask me about **JavaScript, React, Angular, Node.js**
+- 💬 Ask me about **JavaScript, React, Angular, Next.js, Node.js, Nest.js**
 
 - 📫 How to reach me **abdelrady.mohamed95@hotmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Pg7w9FY-EQ-OKRwz3I9eU-1Bhv2KvEnM/view?usp=sharing" rel="nofollow">MY RESUME</a>
 
 - 🤓 Always <code>learning new things</code>
 - ⚡ Fun fact **"Think twice, code once". "Life is about Solving Problems".**
