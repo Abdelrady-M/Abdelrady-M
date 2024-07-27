@@ -13,6 +13,12 @@
   </samp>
 </p>
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/abdelrady-mohamed/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+</p>
+<br />
 
 <!-- About Section -->
  # About me
@@ -25,9 +31,6 @@
 - 📫 How to reach me **abdelrady.mohamed95@hotmail.com**
 - 🤓 Always <code>learning new things</code>
 - ⚡ Fun fact **"Think twice, code once". "Life is about Solving Problems".**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelrady-mohamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
