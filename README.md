@@ -1,25 +1,30 @@
-<h1 align="center">Hi 👋, I'm Abdelrady.M</h1>
-<h3 align="center">Web developer from Egypt</h3>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://abdelrady-portfolio-nextjs.vercel.app">Abdelrady Mohamed</a></b>
+        </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    「 I am a full stack web application developer from <b>Egypt</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+
+<!-- About Section -->
+ # About me
+<p>
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on **Front-End developer**
-
-- 🌱 I’m currently learning **Frameworks, Courses**
-
-
+    
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
 - 👨‍💻 All of my projects are available at <a href="https://abdelrady-portfolio-nextjs.vercel.app" rel="nofollow">MY PORTFOLIO</a>
-
-
-
-- 💬 Ask me about **JavaScript, React, Angular, Next.js, Node.js, Nest.js**
-
 - 📫 How to reach me **abdelrady.mohamed95@hotmail.com**
-
 - 🤓 Always <code>learning new things</code>
 - ⚡ Fun fact **"Think twice, code once". "Life is about Solving Problems".**
-- 🐼 Doing my best
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelrady-mohamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
