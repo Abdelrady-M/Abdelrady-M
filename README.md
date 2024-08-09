@@ -22,13 +22,9 @@
 
 <!-- About Section -->
  # About me
-<p>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
 - 👨‍💻 All of my projects are available at <a href="https://abdelrady-portfolio-nextjs.vercel.app" rel="nofollow">MY PORTFOLIO</a>
 - 📫 How to reach me **abdelrady.mohamed95@hotmail.com**
 - 🤓 Always <code>learning new things</code>
 - ⚡ Fun fact **"Think twice, code once". "Life is about Solving Problems".**
-</p>
-<br/>
-<br/>
-<br/>
+
