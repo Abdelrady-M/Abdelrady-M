@@ -23,9 +23,7 @@
 <!-- About Section -->
  # About me
 <p>
-<img align="right" alt="Coding" width="400"
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
 - 👨‍💻 All of my projects are available at <a href="https://abdelrady-portfolio-nextjs.vercel.app" rel="nofollow">MY PORTFOLIO</a>
 - 📫 How to reach me **abdelrady.mohamed95@hotmail.com**
 - 🤓 Always <code>learning new things</code>
